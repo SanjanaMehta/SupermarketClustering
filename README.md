@@ -1,6 +1,5 @@
 # SupermarketClustering
-Supermarket Customer Segmentation using Clustering
-This project demonstrates customer segmentation using clustering techniques on supermarket marketing data. The goal is to group customers based on their purchasing behavior and demographic information.
+Supermarket Customer Segmentation using Clustering. The goal is to group customers based on their purchasing behavior and demographic information.
 
 ## Project Overview
 Objective: Segment supermarket customers for targeted marketing strategies.
